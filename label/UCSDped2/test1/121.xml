@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test001</folder>
+	<filename>121.tif</filename>
+	<path>E:\tensorflow\UCSD_Anomaly_Dataset.v1p2\UCSDped2\Test\Test001\121.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>240</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>112</ymin>
+			<xmax>146</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>
